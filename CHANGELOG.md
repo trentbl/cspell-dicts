@@ -1,5 +1,18 @@
 # Release Notes
 
+## [8.7.4](https://github.com/streetsidesoftware/cspell-dicts/compare/cspell-dicts@8.7.3...cspell-dicts@8.7.4) (2023-02-20)
+
+
+### Continuous Integration
+
+* Workflow Bot -- Update ALL Dependencies (main) ([#1923](https://github.com/streetsidesoftware/cspell-dicts/issues/1923)) ([f989085](https://github.com/streetsidesoftware/cspell-dicts/commit/f989085cdc794f182c66eed8d11915cb09afaf2a))
+* Workflow Bot -- Update ALL Dependencies (main) ([#1926](https://github.com/streetsidesoftware/cspell-dicts/issues/1926)) ([94662f8](https://github.com/streetsidesoftware/cspell-dicts/commit/94662f8d6120bdb5e05fd8268de622569e74c6d2))
+
+
+### Build System
+
+* **deps:** bump streetsidesoftware/cspell-action from 2.19.0 to 2.21.0 ([#1924](https://github.com/streetsidesoftware/cspell-dicts/issues/1924)) ([1d93486](https://github.com/streetsidesoftware/cspell-dicts/commit/1d93486d3cd4b73f2f5bc8ed74e271a23c9948cb))
+
 ## [8.7.3](https://github.com/streetsidesoftware/cspell-dicts/compare/cspell-dicts@8.7.2...cspell-dicts@8.7.3) (2023-02-17)
 
 
